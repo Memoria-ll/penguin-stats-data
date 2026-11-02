@@ -1,18 +1,19 @@
 [
   {
-    "stageType": "act52side",
-    "count": 8,
-    "examples": "act52side_02, act52side_07, act52side_05, act52side_08, act52side_04",
+    "stageType": "act55side",
+    "count": 9,
+    "examples": "act55side_07, act55side_02, act55side_04, act55side_08, act55side_01",
     "avgConfidence": "1.000",
     "allStageIds": [
-      "act52side_01",
-      "act52side_02",
-      "act52side_03",
-      "act52side_04",
-      "act52side_05",
-      "act52side_06",
-      "act52side_07",
-      "act52side_08"
+      "act55side_01",
+      "act55side_02",
+      "act55side_03",
+      "act55side_04",
+      "act55side_05",
+      "act55side_06",
+      "act55side_07",
+      "act55side_08",
+      "act55side_09"
     ],
     "isNew": true
   }
