@@ -1,0 +1,20 @@
+[
+  {
+    "stageType": "act55side",
+    "count": 9,
+    "examples": "act55side_07, act55side_01, act55side_02, act55side_05, act55side_08",
+    "avgConfidence": "1.000",
+    "allStageIds": [
+      "act55side_01",
+      "act55side_02",
+      "act55side_03",
+      "act55side_04",
+      "act55side_05",
+      "act55side_06",
+      "act55side_07",
+      "act55side_08",
+      "act55side_09"
+    ],
+    "isNew": true
+  }
+]
